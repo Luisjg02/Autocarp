@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Características Principales
+## Características Principales
 1. **Soporte Multiformato Completo:** No se limita a código. Analiza imágenes (`.png`, `.jpg`, `.svg`, `.raw`), documentos (`.pdf`, `.docx`, `.txt`), multimedia (`.mp4`, `.mp3`, `.mkv`), archivos comprimidos (`.zip`, `.rar`, `.7z`), ejecutable e instaladores (`.exe`, `.msi`), hojas de cálculo (`.xlsx`, `.csv`), presentaciones (`.pptx`) y más.
 2. **Protección de Sistema (Safety Guard):** Protege carpetas del sistema operativo (`C:\Windows`, `C:\Program Files`), archivos del sistema (`desktop.ini`, `NTUSER.DAT`) y archivos ocultos de configuración.
 3. **Vista Previa de Árbol (Tree Preview):** Muestra una vista previa visual con `Rich Tree` antes de mover cualquier archivo.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Uso e Instalación
+## Uso e Instalación
 
 ```bash
 # 1. Instalar dependencias
@@ -28,7 +28,7 @@ python main.py
 
 ---
 
-## 🧪 Pruebas Unitarias
+## Pruebas Unitarias
 
 ```bash
 pytest
